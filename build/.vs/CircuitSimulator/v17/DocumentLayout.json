@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bentu\\OneDrive\\Bureaublad\\School_documenten\\Jaar_3\\Blok_12\\DEPA\\Eindopdracht\\build\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3BABF855-5D18-3963-BDE3-8E98BE45F3F3}|CircuitSimulator.vcxproj|C:\\Users\\bentu\\OneDrive\\Bureaublad\\School_documenten\\Jaar_3\\Blok_12\\DEPA\\Eindopdracht\\src\\Simulator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BABF855-5D18-3963-BDE3-8E98BE45F3F3}|CircuitSimulator.vcxproj|C:\\Users\\bentu\\OneDrive\\Bureaublad\\School_documenten\\Jaar_3\\Blok_12\\DEPA\\Eindopdracht\\src\\Circuit.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BABF855-5D18-3963-BDE3-8E98BE45F3F3}|CircuitSimulator.vcxproj|C:\\Users\\bentu\\OneDrive\\Bureaublad\\School_documenten\\Jaar_3\\Blok_12\\DEPA\\Eindopdracht\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{572CDD71-85B9-3AC7-BF49-372AA4B46067}|ALL_BUILD.vcxproj|C:\\Users\\bentu\\OneDrive\\Bureaublad\\School_documenten\\Jaar_3\\Blok_12\\DEPA\\Eindopdracht\\CMakeLists.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Simulator.cpp",
+              "DocumentMoniker": "C:\\Users\\bentu\\OneDrive\\Bureaublad\\School_documenten\\Jaar_3\\Blok_12\\DEPA\\Eindopdracht\\src\\Simulator.cpp",
+              "RelativeDocumentMoniker": "..\\src\\Simulator.cpp",
+              "ToolTip": "C:\\Users\\bentu\\OneDrive\\Bureaublad\\School_documenten\\Jaar_3\\Blok_12\\DEPA\\Eindopdracht\\src\\Simulator.cpp",
+              "RelativeToolTip": "..\\src\\Simulator.cpp",
+              "ViewState": "AgIAACAAAAAAAAAAAAAMwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-20T13:29:39.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Circuit.cpp",
+              "DocumentMoniker": "C:\\Users\\bentu\\OneDrive\\Bureaublad\\School_documenten\\Jaar_3\\Blok_12\\DEPA\\Eindopdracht\\src\\Circuit.cpp",
+              "RelativeDocumentMoniker": "..\\src\\Circuit.cpp",
+              "ToolTip": "C:\\Users\\bentu\\OneDrive\\Bureaublad\\School_documenten\\Jaar_3\\Blok_12\\DEPA\\Eindopdracht\\src\\Circuit.cpp",
+              "RelativeToolTip": "..\\src\\Circuit.cpp",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAwCEAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-20T12:50:46.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\bentu\\OneDrive\\Bureaublad\\School_documenten\\Jaar_3\\Blok_12\\DEPA\\Eindopdracht\\main.cpp",
+              "RelativeDocumentMoniker": "..\\main.cpp",
+              "ToolTip": "C:\\Users\\bentu\\OneDrive\\Bureaublad\\School_documenten\\Jaar_3\\Blok_12\\DEPA\\Eindopdracht\\main.cpp",
+              "RelativeToolTip": "..\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-20T12:35:56.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CMakeLists.txt",
+              "DocumentMoniker": "C:\\Users\\bentu\\OneDrive\\Bureaublad\\School_documenten\\Jaar_3\\Blok_12\\DEPA\\Eindopdracht\\CMakeLists.txt",
+              "RelativeDocumentMoniker": "..\\CMakeLists.txt",
+              "ToolTip": "C:\\Users\\bentu\\OneDrive\\Bureaublad\\School_documenten\\Jaar_3\\Blok_12\\DEPA\\Eindopdracht\\CMakeLists.txt",
+              "RelativeToolTip": "..\\CMakeLists.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-06-20T12:35:25.54Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+C:/Users/bentu/OneDrive/Bureaublad/School_documenten/Jaar_3/Blok_12/DEPA/Eindopdracht/build/CMakeFiles/CircuitSimulator.dir
+C:/Users/bentu/OneDrive/Bureaublad/School_documenten/Jaar_3/Blok_12/DEPA/Eindopdracht/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/bentu/OneDrive/Bureaublad/School_documenten/Jaar_3/Blok_12/DEPA/Eindopdracht/build/CMakeFiles/ZERO_CHECK.dir
