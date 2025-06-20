@@ -1,12 +1,5 @@
 #include "FileReader.h"
-#include "InputNode.h"
-#include "ProbeNode.h"
-#include "AndGate.h"
-#include "OrGate.h"
-#include "NotGate.h"
-#include "NandGate.h"
-#include "NorGate.h"
-#include "XorGate.h"
+#include "ComponentFactory.h"
 #include <fstream>
 #include <sstream>
 #include <stdexcept>
@@ -60,30 +53,8 @@ std::unique_ptr<Circuit> FileReader::parse(const std::string& filename) {
         trim(definition);
 
         if (circuit->getComponent(id) == nullptr) {
-            // Node does not exist, so this is a declaration
-            std::unique_ptr<Component> comp;
-            if (definition == "INPUT_HIGH") {
-                comp = std::make_unique<InputNode>(id, true);
-            } else if (definition == "INPUT_LOW") {
-                comp = std::make_unique<InputNode>(id, false);
-            } else if (definition == "AND") {
-                comp = std::make_unique<AndGate>(id);
-            } else if (definition == "OR") {
-                comp = std::make_unique<OrGate>(id);
-            } else if (definition == "NOT") {
-                comp = std::make_unique<NotGate>(id);
-            } else if (definition == "NAND") {
-                comp = std::make_unique<NandGate>(id);
-            } else if (definition == "NOR") {
-                comp = std::make_unique<NorGate>(id);
-            } else if (definition == "XOR") {
-                comp = std::make_unique<XorGate>(id);
-            } else if (definition == "PROBE") {
-                comp = std::make_unique<ProbeNode>(id);
-            } else {
-                throw std::runtime_error("Unknown component type '" + definition + "' for new component '" + id + "'");
-            }
-            circuit->addComponent(std::move(comp));
+            // Node does not exist; create via factory
+            circuit->addComponent(ComponentFactory::create(id, definition));
         } else {
             // Node exists, so this is a connection definition
             std::stringstream ss(definition);

@@ -1,0 +1,98 @@
+[
+{
+  "directory": "D:/github/Eindopdracht_DEPA/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/CircuitSimulator.dir/includes_CXX.rsp -g -std=gnu++1z -o CMakeFiles\\CircuitSimulator.dir\\main.cpp.obj -c D:\\github\\Eindopdracht_DEPA\\main.cpp",
+  "file": "D:/github/Eindopdracht_DEPA/main.cpp",
+  "output": "CMakeFiles/CircuitSimulator.dir/main.cpp.obj"
+},
+{
+  "directory": "D:/github/Eindopdracht_DEPA/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/CircuitSimulator.dir/includes_CXX.rsp -g -std=gnu++1z -o CMakeFiles\\CircuitSimulator.dir\\src\\AndGate.cpp.obj -c D:\\github\\Eindopdracht_DEPA\\src\\AndGate.cpp",
+  "file": "D:/github/Eindopdracht_DEPA/src/AndGate.cpp",
+  "output": "CMakeFiles/CircuitSimulator.dir/src/AndGate.cpp.obj"
+},
+{
+  "directory": "D:/github/Eindopdracht_DEPA/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/CircuitSimulator.dir/includes_CXX.rsp -g -std=gnu++1z -o CMakeFiles\\CircuitSimulator.dir\\src\\Application.cpp.obj -c D:\\github\\Eindopdracht_DEPA\\src\\Application.cpp",
+  "file": "D:/github/Eindopdracht_DEPA/src/Application.cpp",
+  "output": "CMakeFiles/CircuitSimulator.dir/src/Application.cpp.obj"
+},
+{
+  "directory": "D:/github/Eindopdracht_DEPA/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/CircuitSimulator.dir/includes_CXX.rsp -g -std=gnu++1z -o CMakeFiles\\CircuitSimulator.dir\\src\\Circuit.cpp.obj -c D:\\github\\Eindopdracht_DEPA\\src\\Circuit.cpp",
+  "file": "D:/github/Eindopdracht_DEPA/src/Circuit.cpp",
+  "output": "CMakeFiles/CircuitSimulator.dir/src/Circuit.cpp.obj"
+},
+{
+  "directory": "D:/github/Eindopdracht_DEPA/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/CircuitSimulator.dir/includes_CXX.rsp -g -std=gnu++1z -o CMakeFiles\\CircuitSimulator.dir\\src\\Component.cpp.obj -c D:\\github\\Eindopdracht_DEPA\\src\\Component.cpp",
+  "file": "D:/github/Eindopdracht_DEPA/src/Component.cpp",
+  "output": "CMakeFiles/CircuitSimulator.dir/src/Component.cpp.obj"
+},
+{
+  "directory": "D:/github/Eindopdracht_DEPA/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/CircuitSimulator.dir/includes_CXX.rsp -g -std=gnu++1z -o CMakeFiles\\CircuitSimulator.dir\\src\\ComponentFactory.cpp.obj -c D:\\github\\Eindopdracht_DEPA\\src\\ComponentFactory.cpp",
+  "file": "D:/github/Eindopdracht_DEPA/src/ComponentFactory.cpp",
+  "output": "CMakeFiles/CircuitSimulator.dir/src/ComponentFactory.cpp.obj"
+},
+{
+  "directory": "D:/github/Eindopdracht_DEPA/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/CircuitSimulator.dir/includes_CXX.rsp -g -std=gnu++1z -o CMakeFiles\\CircuitSimulator.dir\\src\\FileReader.cpp.obj -c D:\\github\\Eindopdracht_DEPA\\src\\FileReader.cpp",
+  "file": "D:/github/Eindopdracht_DEPA/src/FileReader.cpp",
+  "output": "CMakeFiles/CircuitSimulator.dir/src/FileReader.cpp.obj"
+},
+{
+  "directory": "D:/github/Eindopdracht_DEPA/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/CircuitSimulator.dir/includes_CXX.rsp -g -std=gnu++1z -o CMakeFiles\\CircuitSimulator.dir\\src\\GateNode.cpp.obj -c D:\\github\\Eindopdracht_DEPA\\src\\GateNode.cpp",
+  "file": "D:/github/Eindopdracht_DEPA/src/GateNode.cpp",
+  "output": "CMakeFiles/CircuitSimulator.dir/src/GateNode.cpp.obj"
+},
+{
+  "directory": "D:/github/Eindopdracht_DEPA/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/CircuitSimulator.dir/includes_CXX.rsp -g -std=gnu++1z -o CMakeFiles\\CircuitSimulator.dir\\src\\InputNode.cpp.obj -c D:\\github\\Eindopdracht_DEPA\\src\\InputNode.cpp",
+  "file": "D:/github/Eindopdracht_DEPA/src/InputNode.cpp",
+  "output": "CMakeFiles/CircuitSimulator.dir/src/InputNode.cpp.obj"
+},
+{
+  "directory": "D:/github/Eindopdracht_DEPA/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/CircuitSimulator.dir/includes_CXX.rsp -g -std=gnu++1z -o CMakeFiles\\CircuitSimulator.dir\\src\\NandGate.cpp.obj -c D:\\github\\Eindopdracht_DEPA\\src\\NandGate.cpp",
+  "file": "D:/github/Eindopdracht_DEPA/src/NandGate.cpp",
+  "output": "CMakeFiles/CircuitSimulator.dir/src/NandGate.cpp.obj"
+},
+{
+  "directory": "D:/github/Eindopdracht_DEPA/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/CircuitSimulator.dir/includes_CXX.rsp -g -std=gnu++1z -o CMakeFiles\\CircuitSimulator.dir\\src\\NorGate.cpp.obj -c D:\\github\\Eindopdracht_DEPA\\src\\NorGate.cpp",
+  "file": "D:/github/Eindopdracht_DEPA/src/NorGate.cpp",
+  "output": "CMakeFiles/CircuitSimulator.dir/src/NorGate.cpp.obj"
+},
+{
+  "directory": "D:/github/Eindopdracht_DEPA/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/CircuitSimulator.dir/includes_CXX.rsp -g -std=gnu++1z -o CMakeFiles\\CircuitSimulator.dir\\src\\NotGate.cpp.obj -c D:\\github\\Eindopdracht_DEPA\\src\\NotGate.cpp",
+  "file": "D:/github/Eindopdracht_DEPA/src/NotGate.cpp",
+  "output": "CMakeFiles/CircuitSimulator.dir/src/NotGate.cpp.obj"
+},
+{
+  "directory": "D:/github/Eindopdracht_DEPA/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/CircuitSimulator.dir/includes_CXX.rsp -g -std=gnu++1z -o CMakeFiles\\CircuitSimulator.dir\\src\\OrGate.cpp.obj -c D:\\github\\Eindopdracht_DEPA\\src\\OrGate.cpp",
+  "file": "D:/github/Eindopdracht_DEPA/src/OrGate.cpp",
+  "output": "CMakeFiles/CircuitSimulator.dir/src/OrGate.cpp.obj"
+},
+{
+  "directory": "D:/github/Eindopdracht_DEPA/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/CircuitSimulator.dir/includes_CXX.rsp -g -std=gnu++1z -o CMakeFiles\\CircuitSimulator.dir\\src\\ProbeNode.cpp.obj -c D:\\github\\Eindopdracht_DEPA\\src\\ProbeNode.cpp",
+  "file": "D:/github/Eindopdracht_DEPA/src/ProbeNode.cpp",
+  "output": "CMakeFiles/CircuitSimulator.dir/src/ProbeNode.cpp.obj"
+},
+{
+  "directory": "D:/github/Eindopdracht_DEPA/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/CircuitSimulator.dir/includes_CXX.rsp -g -std=gnu++1z -o CMakeFiles\\CircuitSimulator.dir\\src\\Simulator.cpp.obj -c D:\\github\\Eindopdracht_DEPA\\src\\Simulator.cpp",
+  "file": "D:/github/Eindopdracht_DEPA/src/Simulator.cpp",
+  "output": "CMakeFiles/CircuitSimulator.dir/src/Simulator.cpp.obj"
+},
+{
+  "directory": "D:/github/Eindopdracht_DEPA/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/CircuitSimulator.dir/includes_CXX.rsp -g -std=gnu++1z -o CMakeFiles\\CircuitSimulator.dir\\src\\XorGate.cpp.obj -c D:\\github\\Eindopdracht_DEPA\\src\\XorGate.cpp",
+  "file": "D:/github/Eindopdracht_DEPA/src/XorGate.cpp",
+  "output": "CMakeFiles/CircuitSimulator.dir/src/XorGate.cpp.obj"
+}
+]

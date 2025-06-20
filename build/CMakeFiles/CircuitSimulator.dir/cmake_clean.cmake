@@ -1,0 +1,43 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/CircuitSimulator.dir/main.cpp.obj"
+  "CMakeFiles/CircuitSimulator.dir/main.cpp.obj.d"
+  "CMakeFiles/CircuitSimulator.dir/src/AndGate.cpp.obj"
+  "CMakeFiles/CircuitSimulator.dir/src/AndGate.cpp.obj.d"
+  "CMakeFiles/CircuitSimulator.dir/src/Application.cpp.obj"
+  "CMakeFiles/CircuitSimulator.dir/src/Application.cpp.obj.d"
+  "CMakeFiles/CircuitSimulator.dir/src/Circuit.cpp.obj"
+  "CMakeFiles/CircuitSimulator.dir/src/Circuit.cpp.obj.d"
+  "CMakeFiles/CircuitSimulator.dir/src/Component.cpp.obj"
+  "CMakeFiles/CircuitSimulator.dir/src/Component.cpp.obj.d"
+  "CMakeFiles/CircuitSimulator.dir/src/ComponentFactory.cpp.obj"
+  "CMakeFiles/CircuitSimulator.dir/src/ComponentFactory.cpp.obj.d"
+  "CMakeFiles/CircuitSimulator.dir/src/FileReader.cpp.obj"
+  "CMakeFiles/CircuitSimulator.dir/src/FileReader.cpp.obj.d"
+  "CMakeFiles/CircuitSimulator.dir/src/GateNode.cpp.obj"
+  "CMakeFiles/CircuitSimulator.dir/src/GateNode.cpp.obj.d"
+  "CMakeFiles/CircuitSimulator.dir/src/InputNode.cpp.obj"
+  "CMakeFiles/CircuitSimulator.dir/src/InputNode.cpp.obj.d"
+  "CMakeFiles/CircuitSimulator.dir/src/NandGate.cpp.obj"
+  "CMakeFiles/CircuitSimulator.dir/src/NandGate.cpp.obj.d"
+  "CMakeFiles/CircuitSimulator.dir/src/NorGate.cpp.obj"
+  "CMakeFiles/CircuitSimulator.dir/src/NorGate.cpp.obj.d"
+  "CMakeFiles/CircuitSimulator.dir/src/NotGate.cpp.obj"
+  "CMakeFiles/CircuitSimulator.dir/src/NotGate.cpp.obj.d"
+  "CMakeFiles/CircuitSimulator.dir/src/OrGate.cpp.obj"
+  "CMakeFiles/CircuitSimulator.dir/src/OrGate.cpp.obj.d"
+  "CMakeFiles/CircuitSimulator.dir/src/ProbeNode.cpp.obj"
+  "CMakeFiles/CircuitSimulator.dir/src/ProbeNode.cpp.obj.d"
+  "CMakeFiles/CircuitSimulator.dir/src/Simulator.cpp.obj"
+  "CMakeFiles/CircuitSimulator.dir/src/Simulator.cpp.obj.d"
+  "CMakeFiles/CircuitSimulator.dir/src/XorGate.cpp.obj"
+  "CMakeFiles/CircuitSimulator.dir/src/XorGate.cpp.obj.d"
+  "CircuitSimulator.exe"
+  "CircuitSimulator.exe.manifest"
+  "CircuitSimulator.pdb"
+  "libCircuitSimulator.dll.a"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/CircuitSimulator.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()
