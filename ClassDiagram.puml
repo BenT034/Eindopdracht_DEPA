@@ -1,0 +1,54 @@
+@startuml ClassDiagram
+
+' Base Component class
+abstract class Component
+
+' Factory class
+class ComponentFactory {
+    <<singleton>>
+}
+
+' Gate hierarchy
+abstract class GateNode
+class AndGate
+class OrGate
+class NotGate
+class NandGate
+class NorGate
+class XorGate
+
+' Input/Output nodes
+class InputNode
+class ProbeNode
+
+' Application classes
+class Application
+class FileReader
+class Circuit
+class Simulator
+
+' Inheritance relationships
+Component <|-- GateNode
+Component <|-- InputNode
+Component <|-- ProbeNode
+
+GateNode <|-- AndGate
+GateNode <|-- OrGate
+GateNode <|-- NotGate
+GateNode <|-- NandGate
+GateNode <|-- NorGate
+GateNode <|-- XorGate
+
+' Association relationships
+Application --> FileReader
+Application --> Circuit
+Application --> Simulator
+FileReader --> Circuit
+Simulator --> Circuit
+Circuit --> Component
+ComponentFactory --> Component
+
+
+
+@enduml
+
