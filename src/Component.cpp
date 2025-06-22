@@ -2,8 +2,8 @@
 #include "ComponentFactory.h"
 #include <stdexcept>
 
-Component::Component(const std::string& componentId, double delay) 
-    : id(componentId), propagationDelay(delay), _currentOutputValue(false) {
+Component::Component(const std::string& componentId) 
+    : id(componentId), _currentOutputValue(false) {
     // Register this component with the factory using getInstance()
     ComponentFactory::getInstance().assign(componentId, this);
 }
@@ -28,9 +28,6 @@ const std::vector<Component*>& Component::getOutputs() const {
     return outputs;
 }
 
-double Component::getPropagationDelay() const {
-    return propagationDelay;
-}
 
 void Component::printOutput() const {
     // Default implementation does nothing

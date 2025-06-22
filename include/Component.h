@@ -8,11 +8,10 @@ class Component {
 protected:
     std::string id;
     std::vector<Component*> outputs;
-    double propagationDelay;
     bool _currentOutputValue;
 
 public:
-    Component(const std::string& componentId, double delay = 0.0);
+    Component(const std::string& componentId);
     virtual ~Component() = default;
 
     virtual bool eval() = 0;

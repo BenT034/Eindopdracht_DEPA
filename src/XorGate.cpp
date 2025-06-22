@@ -5,7 +5,7 @@
 XorGate XorGate::prototype("XOR");
 
 XorGate::XorGate(const std::string& gateId)
-    : GateNode(gateId, 10.0) {
+    : GateNode(gateId) {
 }
 
 bool XorGate::eval() {

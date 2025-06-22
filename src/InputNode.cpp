@@ -10,6 +10,7 @@ InputNode::InputNode(const std::string& nodeId, bool initialValue)
 }
 
 bool InputNode::eval() {
+    
     return _currentOutputValue;
 }
 
