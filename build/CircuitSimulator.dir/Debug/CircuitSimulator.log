@@ -1,0 +1,19 @@
+﻿  Building Custom Rule C:/Users/bentu/OneDrive/Bureaublad/School_documenten/Jaar_3/Blok_12/DEPA/Eindopdracht/Eindopdracht_DEPA/CMakeLists.txt
+  main.cpp
+  AndGate.cpp
+  Application.cpp
+  Circuit.cpp
+  Component.cpp
+  ComponentFactory.cpp
+  FileReader.cpp
+  GateNode.cpp
+  InputNode.cpp
+  NandGate.cpp
+  NorGate.cpp
+  NotGate.cpp
+  OrGate.cpp
+  ProbeNode.cpp
+  Simulator.cpp
+  XorGate.cpp
+  Generating Code...
+  CircuitSimulator.vcxproj -> C:\Users\bentu\OneDrive\Bureaublad\School_documenten\Jaar_3\Blok_12\DEPA\Eindopdracht\Eindopdracht_DEPA\build\Debug\CircuitSimulator.exe
