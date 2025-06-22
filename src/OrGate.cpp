@@ -1,8 +1,12 @@
 #include "OrGate.h"
 #include <stdexcept>
 
+// Static member initialization
+OrGate OrGate::prototype("OR");
+
 OrGate::OrGate(const std::string& gateId)
-    : GateNode(gateId, 10.0) {}
+    : GateNode(gateId, 10.0) {
+}
 
 bool OrGate::eval() {
     if (inputs.empty()) {
@@ -13,7 +17,10 @@ bool OrGate::eval() {
         if (input->getOutputValue()) {
             _currentOutputValue = true;
             break;
-        }
-    }
+        }    }
     return _currentOutputValue;
+}
+
+Component* OrGate::clone() const {
+    return new OrGate(*this);
 }

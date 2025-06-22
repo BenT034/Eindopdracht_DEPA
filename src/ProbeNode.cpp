@@ -1,8 +1,12 @@
 #include "ProbeNode.h"
 #include <iostream>
 
+// Static member initialization
+ProbeNode ProbeNode::prototype("PROBE");
+
 ProbeNode::ProbeNode(const std::string& probeId)
-    : Component(probeId), inputSource(nullptr) {}
+    : Component(probeId), inputSource(nullptr) {
+}
 
 bool ProbeNode::eval() {
     if (inputSource) {
@@ -24,4 +28,8 @@ void ProbeNode::setInput(Component* source) {
 
 void ProbeNode::printOutput() const {
     std::cout << "Probe '" << id << "': " << (getOutputValue() ? "HIGH" : "LOW") << std::endl;
+}
+
+Component* ProbeNode::clone() const {
+    return new ProbeNode(*this);
 }

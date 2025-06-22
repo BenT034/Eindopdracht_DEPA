@@ -18,8 +18,8 @@ public:
     virtual bool eval() = 0;
     virtual void printOutput() const;
     virtual void setInput(Component* source);
-
-    const std::string& getId() const;
+    virtual Component* clone() const = 0;    const std::string& getId() const;
+    void setId(const std::string& newId);
     bool getOutputValue() const;
     void addOutput(Component* out);
     const std::vector<Component*>& getOutputs() const;

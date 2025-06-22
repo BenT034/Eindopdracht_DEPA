@@ -1,11 +1,19 @@
 #include "Component.h"
+#include "ComponentFactory.h"
 #include <stdexcept>
 
 Component::Component(const std::string& componentId, double delay) 
-    : id(componentId), propagationDelay(delay), _currentOutputValue(false) {}
+    : id(componentId), propagationDelay(delay), _currentOutputValue(false) {
+    // Register this component with the factory using getInstance()
+    ComponentFactory::getInstance().assign(componentId, this);
+}
 
 const std::string& Component::getId() const {
     return id;
+}
+
+void Component::setId(const std::string& newId) {
+    id = newId;
 }
 
 bool Component::getOutputValue() const {

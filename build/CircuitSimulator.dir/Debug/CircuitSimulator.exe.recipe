@@ -2,10 +2,10 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>C:\Users\bentu\OneDrive\Bureaublad\School_documenten\Jaar_3\Blok_12\DEPA\Eindopdracht\build\x64\Debug\ZERO_CHECK</FullPath>
+      <FullPath>C:\Users\bentu\OneDrive\Bureaublad\School_documenten\Jaar_3\Blok_12\DEPA\Eindopdracht\Eindopdracht_DEPA\build\x64\Debug\ZERO_CHECK</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>C:\Users\bentu\OneDrive\Bureaublad\School_documenten\Jaar_3\Blok_12\DEPA\Eindopdracht\build\Debug\CircuitSimulator.exe</FullPath>
+      <FullPath>C:\Users\bentu\OneDrive\Bureaublad\School_documenten\Jaar_3\Blok_12\DEPA\Eindopdracht\Eindopdracht_DEPA\build\Debug\CircuitSimulator.exe</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />

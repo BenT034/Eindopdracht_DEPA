@@ -50,11 +50,14 @@ std::unique_ptr<Circuit> FileReader::parse(const std::string& filename) {
         if (definition.back() == ';') {
             definition.pop_back();
         }
-        trim(definition);
-
+        trim(definition);        
         if (circuit->getComponent(id) == nullptr) {
             // Node does not exist; create via factory
-            circuit->addComponent(ComponentFactory::create(id, definition));
+            Component* component = ComponentFactory::getInstance().create(definition);
+            if (component) {
+                component->setId(id);
+                circuit->addComponent(std::unique_ptr<Component>(component));
+            }
         } else {
             // Node exists, so this is a connection definition
             std::stringstream ss(definition);

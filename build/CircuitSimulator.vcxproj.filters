@@ -1,105 +1,111 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <ClCompile Include="C:\Users\bentu\OneDrive\Bureaublad\School_documenten\Jaar_3\Blok_12\DEPA\Eindopdracht\main.cpp">
+    <ClCompile Include="C:\Users\bentu\OneDrive\Bureaublad\School_documenten\Jaar_3\Blok_12\DEPA\Eindopdracht\Eindopdracht_DEPA\main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\bentu\OneDrive\Bureaublad\School_documenten\Jaar_3\Blok_12\DEPA\Eindopdracht\src\Component.cpp">
+    <ClCompile Include="C:\Users\bentu\OneDrive\Bureaublad\School_documenten\Jaar_3\Blok_12\DEPA\Eindopdracht\Eindopdracht_DEPA\src\AndGate.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\bentu\OneDrive\Bureaublad\School_documenten\Jaar_3\Blok_12\DEPA\Eindopdracht\src\InputNode.cpp">
+    <ClCompile Include="C:\Users\bentu\OneDrive\Bureaublad\School_documenten\Jaar_3\Blok_12\DEPA\Eindopdracht\Eindopdracht_DEPA\src\Application.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\bentu\OneDrive\Bureaublad\School_documenten\Jaar_3\Blok_12\DEPA\Eindopdracht\src\ProbeNode.cpp">
+    <ClCompile Include="C:\Users\bentu\OneDrive\Bureaublad\School_documenten\Jaar_3\Blok_12\DEPA\Eindopdracht\Eindopdracht_DEPA\src\Circuit.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\bentu\OneDrive\Bureaublad\School_documenten\Jaar_3\Blok_12\DEPA\Eindopdracht\src\GateNode.cpp">
+    <ClCompile Include="C:\Users\bentu\OneDrive\Bureaublad\School_documenten\Jaar_3\Blok_12\DEPA\Eindopdracht\Eindopdracht_DEPA\src\Component.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\bentu\OneDrive\Bureaublad\School_documenten\Jaar_3\Blok_12\DEPA\Eindopdracht\src\AndGate.cpp">
+    <ClCompile Include="C:\Users\bentu\OneDrive\Bureaublad\School_documenten\Jaar_3\Blok_12\DEPA\Eindopdracht\Eindopdracht_DEPA\src\ComponentFactory.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\bentu\OneDrive\Bureaublad\School_documenten\Jaar_3\Blok_12\DEPA\Eindopdracht\src\OrGate.cpp">
+    <ClCompile Include="C:\Users\bentu\OneDrive\Bureaublad\School_documenten\Jaar_3\Blok_12\DEPA\Eindopdracht\Eindopdracht_DEPA\src\FileReader.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\bentu\OneDrive\Bureaublad\School_documenten\Jaar_3\Blok_12\DEPA\Eindopdracht\src\NotGate.cpp">
+    <ClCompile Include="C:\Users\bentu\OneDrive\Bureaublad\School_documenten\Jaar_3\Blok_12\DEPA\Eindopdracht\Eindopdracht_DEPA\src\GateNode.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\bentu\OneDrive\Bureaublad\School_documenten\Jaar_3\Blok_12\DEPA\Eindopdracht\src\NandGate.cpp">
+    <ClCompile Include="C:\Users\bentu\OneDrive\Bureaublad\School_documenten\Jaar_3\Blok_12\DEPA\Eindopdracht\Eindopdracht_DEPA\src\InputNode.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\bentu\OneDrive\Bureaublad\School_documenten\Jaar_3\Blok_12\DEPA\Eindopdracht\src\NorGate.cpp">
+    <ClCompile Include="C:\Users\bentu\OneDrive\Bureaublad\School_documenten\Jaar_3\Blok_12\DEPA\Eindopdracht\Eindopdracht_DEPA\src\NandGate.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\bentu\OneDrive\Bureaublad\School_documenten\Jaar_3\Blok_12\DEPA\Eindopdracht\src\XorGate.cpp">
+    <ClCompile Include="C:\Users\bentu\OneDrive\Bureaublad\School_documenten\Jaar_3\Blok_12\DEPA\Eindopdracht\Eindopdracht_DEPA\src\NorGate.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\bentu\OneDrive\Bureaublad\School_documenten\Jaar_3\Blok_12\DEPA\Eindopdracht\src\Circuit.cpp">
+    <ClCompile Include="C:\Users\bentu\OneDrive\Bureaublad\School_documenten\Jaar_3\Blok_12\DEPA\Eindopdracht\Eindopdracht_DEPA\src\NotGate.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\bentu\OneDrive\Bureaublad\School_documenten\Jaar_3\Blok_12\DEPA\Eindopdracht\src\Simulator.cpp">
+    <ClCompile Include="C:\Users\bentu\OneDrive\Bureaublad\School_documenten\Jaar_3\Blok_12\DEPA\Eindopdracht\Eindopdracht_DEPA\src\OrGate.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\bentu\OneDrive\Bureaublad\School_documenten\Jaar_3\Blok_12\DEPA\Eindopdracht\src\FileReader.cpp">
+    <ClCompile Include="C:\Users\bentu\OneDrive\Bureaublad\School_documenten\Jaar_3\Blok_12\DEPA\Eindopdracht\Eindopdracht_DEPA\src\ProbeNode.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\bentu\OneDrive\Bureaublad\School_documenten\Jaar_3\Blok_12\DEPA\Eindopdracht\src\Application.cpp">
+    <ClCompile Include="C:\Users\bentu\OneDrive\Bureaublad\School_documenten\Jaar_3\Blok_12\DEPA\Eindopdracht\Eindopdracht_DEPA\src\Simulator.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\bentu\OneDrive\Bureaublad\School_documenten\Jaar_3\Blok_12\DEPA\Eindopdracht\Eindopdracht_DEPA\src\XorGate.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="C:\Users\bentu\OneDrive\Bureaublad\School_documenten\Jaar_3\Blok_12\DEPA\Eindopdracht\src\Component.h">
+    <ClInclude Include="C:\Users\bentu\OneDrive\Bureaublad\School_documenten\Jaar_3\Blok_12\DEPA\Eindopdracht\Eindopdracht_DEPA\include\AndGate.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Users\bentu\OneDrive\Bureaublad\School_documenten\Jaar_3\Blok_12\DEPA\Eindopdracht\src\InputNode.h">
+    <ClInclude Include="C:\Users\bentu\OneDrive\Bureaublad\School_documenten\Jaar_3\Blok_12\DEPA\Eindopdracht\Eindopdracht_DEPA\include\Application.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Users\bentu\OneDrive\Bureaublad\School_documenten\Jaar_3\Blok_12\DEPA\Eindopdracht\src\ProbeNode.h">
+    <ClInclude Include="C:\Users\bentu\OneDrive\Bureaublad\School_documenten\Jaar_3\Blok_12\DEPA\Eindopdracht\Eindopdracht_DEPA\include\Circuit.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Users\bentu\OneDrive\Bureaublad\School_documenten\Jaar_3\Blok_12\DEPA\Eindopdracht\src\GateNode.h">
+    <ClInclude Include="C:\Users\bentu\OneDrive\Bureaublad\School_documenten\Jaar_3\Blok_12\DEPA\Eindopdracht\Eindopdracht_DEPA\include\Component.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Users\bentu\OneDrive\Bureaublad\School_documenten\Jaar_3\Blok_12\DEPA\Eindopdracht\src\AndGate.h">
+    <ClInclude Include="C:\Users\bentu\OneDrive\Bureaublad\School_documenten\Jaar_3\Blok_12\DEPA\Eindopdracht\Eindopdracht_DEPA\include\ComponentFactory.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Users\bentu\OneDrive\Bureaublad\School_documenten\Jaar_3\Blok_12\DEPA\Eindopdracht\src\OrGate.h">
+    <ClInclude Include="C:\Users\bentu\OneDrive\Bureaublad\School_documenten\Jaar_3\Blok_12\DEPA\Eindopdracht\Eindopdracht_DEPA\include\FileReader.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Users\bentu\OneDrive\Bureaublad\School_documenten\Jaar_3\Blok_12\DEPA\Eindopdracht\src\NotGate.h">
+    <ClInclude Include="C:\Users\bentu\OneDrive\Bureaublad\School_documenten\Jaar_3\Blok_12\DEPA\Eindopdracht\Eindopdracht_DEPA\include\GateNode.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Users\bentu\OneDrive\Bureaublad\School_documenten\Jaar_3\Blok_12\DEPA\Eindopdracht\src\NandGate.h">
+    <ClInclude Include="C:\Users\bentu\OneDrive\Bureaublad\School_documenten\Jaar_3\Blok_12\DEPA\Eindopdracht\Eindopdracht_DEPA\include\InputNode.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Users\bentu\OneDrive\Bureaublad\School_documenten\Jaar_3\Blok_12\DEPA\Eindopdracht\src\NorGate.h">
+    <ClInclude Include="C:\Users\bentu\OneDrive\Bureaublad\School_documenten\Jaar_3\Blok_12\DEPA\Eindopdracht\Eindopdracht_DEPA\include\NandGate.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Users\bentu\OneDrive\Bureaublad\School_documenten\Jaar_3\Blok_12\DEPA\Eindopdracht\src\XorGate.h">
+    <ClInclude Include="C:\Users\bentu\OneDrive\Bureaublad\School_documenten\Jaar_3\Blok_12\DEPA\Eindopdracht\Eindopdracht_DEPA\include\NorGate.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Users\bentu\OneDrive\Bureaublad\School_documenten\Jaar_3\Blok_12\DEPA\Eindopdracht\src\Circuit.h">
+    <ClInclude Include="C:\Users\bentu\OneDrive\Bureaublad\School_documenten\Jaar_3\Blok_12\DEPA\Eindopdracht\Eindopdracht_DEPA\include\NotGate.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Users\bentu\OneDrive\Bureaublad\School_documenten\Jaar_3\Blok_12\DEPA\Eindopdracht\src\Simulator.h">
+    <ClInclude Include="C:\Users\bentu\OneDrive\Bureaublad\School_documenten\Jaar_3\Blok_12\DEPA\Eindopdracht\Eindopdracht_DEPA\include\OrGate.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Users\bentu\OneDrive\Bureaublad\School_documenten\Jaar_3\Blok_12\DEPA\Eindopdracht\src\FileReader.h">
+    <ClInclude Include="C:\Users\bentu\OneDrive\Bureaublad\School_documenten\Jaar_3\Blok_12\DEPA\Eindopdracht\Eindopdracht_DEPA\include\ProbeNode.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Users\bentu\OneDrive\Bureaublad\School_documenten\Jaar_3\Blok_12\DEPA\Eindopdracht\src\Application.h">
+    <ClInclude Include="C:\Users\bentu\OneDrive\Bureaublad\School_documenten\Jaar_3\Blok_12\DEPA\Eindopdracht\Eindopdracht_DEPA\include\Simulator.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\bentu\OneDrive\Bureaublad\School_documenten\Jaar_3\Blok_12\DEPA\Eindopdracht\Eindopdracht_DEPA\include\XorGate.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <CustomBuild Include="C:\Users\bentu\OneDrive\Bureaublad\School_documenten\Jaar_3\Blok_12\DEPA\Eindopdracht\CMakeLists.txt" />
+    <CustomBuild Include="C:\Users\bentu\OneDrive\Bureaublad\School_documenten\Jaar_3\Blok_12\DEPA\Eindopdracht\Eindopdracht_DEPA\CMakeLists.txt" />
   </ItemGroup>
   <ItemGroup>
     <Filter Include="Header Files">
-      <UniqueIdentifier>{E0C1F13D-E509-3728-8A67-6473C1FAF8ED}</UniqueIdentifier>
+      <UniqueIdentifier>{938B39CF-9E2E-3EE3-8842-A2B0705D67CC}</UniqueIdentifier>
     </Filter>
     <Filter Include="Source Files">
-      <UniqueIdentifier>{B1CD8BCD-D01C-39E4-8102-18CE19E21D6E}</UniqueIdentifier>
+      <UniqueIdentifier>{C3DBA62E-F435-3DFF-8F12-4136DC605BEC}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>

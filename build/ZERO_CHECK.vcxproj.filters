@@ -1,13 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <CustomBuild Include="C:\Users\bentu\OneDrive\Bureaublad\School_documenten\Jaar_3\Blok_12\DEPA\Eindopdracht\build\CMakeFiles\08acd0eac05005033e530b6672479e92\generate.stamp.rule">
+    <CustomBuild Include="C:\Users\bentu\OneDrive\Bureaublad\School_documenten\Jaar_3\Blok_12\DEPA\Eindopdracht\Eindopdracht_DEPA\build\CMakeFiles\00492de123ee241b5f37fd456569b4d9\generate.stamp.rule">
       <Filter>CMake Rules</Filter>
     </CustomBuild>
   </ItemGroup>
   <ItemGroup>
     <Filter Include="CMake Rules">
-      <UniqueIdentifier>{4E7D6666-0E5E-356F-85CF-E8E2DBC9BC5E}</UniqueIdentifier>
+      <UniqueIdentifier>{32FC1932-38ED-3DDE-B9DF-10714240BAFF}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>

@@ -1,8 +1,12 @@
 #include "NandGate.h"
 #include <stdexcept>
 
+// Static member initialization
+NandGate NandGate::prototype("NAND");
+
 NandGate::NandGate(const std::string& gateId)
-    : GateNode(gateId, 10.0) {}
+    : GateNode(gateId, 10.0) {
+}
 
 bool NandGate::eval() {
     if (inputs.empty()) {
@@ -14,7 +18,10 @@ bool NandGate::eval() {
             and_result = false;
             break;
         }
-    }
-    _currentOutputValue = !and_result;
+    }    _currentOutputValue = !and_result;
     return _currentOutputValue;
+}
+
+Component* NandGate::clone() const {
+    return new NandGate(*this);
 }

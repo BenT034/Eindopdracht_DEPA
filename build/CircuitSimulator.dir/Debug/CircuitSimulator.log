@@ -1,7 +1,5 @@
-﻿  ProbeNode.cpp
+﻿  FileReader.cpp
   GateNode.cpp
-  Circuit.cpp
-  Simulator.cpp
-  Application.cpp
+  XorGate.cpp
   Generating Code...
-  CircuitSimulator.vcxproj -> C:\Users\bentu\OneDrive\Bureaublad\School_documenten\Jaar_3\Blok_12\DEPA\Eindopdracht\build\Debug\CircuitSimulator.exe
+  CircuitSimulator.vcxproj -> C:\Users\bentu\OneDrive\Bureaublad\School_documenten\Jaar_3\Blok_12\DEPA\Eindopdracht\Eindopdracht_DEPA\build\Debug\CircuitSimulator.exe

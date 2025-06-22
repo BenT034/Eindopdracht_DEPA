@@ -1,18 +1,24 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\bentu\\OneDrive\\Bureaublad\\School_documenten\\Jaar_3\\Blok_12\\DEPA\\Eindopdracht\\build\\",
+  "WorkspaceRootPath": "C:\\Users\\bentu\\OneDrive\\Bureaublad\\School_documenten\\Jaar_3\\Blok_12\\DEPA\\Eindopdracht\\Eindopdracht_DEPA\\build\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3BABF855-5D18-3963-BDE3-8E98BE45F3F3}|CircuitSimulator.vcxproj|C:\\Users\\bentu\\OneDrive\\Bureaublad\\School_documenten\\Jaar_3\\Blok_12\\DEPA\\Eindopdracht\\src\\Simulator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{31B716CC-DBC7-336B-BBFA-52CFAFF78A41}|CircuitSimulator.vcxproj|C:\\Users\\bentu\\OneDrive\\Bureaublad\\School_documenten\\Jaar_3\\Blok_12\\DEPA\\Eindopdracht\\Eindopdracht_DEPA\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3BABF855-5D18-3963-BDE3-8E98BE45F3F3}|CircuitSimulator.vcxproj|C:\\Users\\bentu\\OneDrive\\Bureaublad\\School_documenten\\Jaar_3\\Blok_12\\DEPA\\Eindopdracht\\src\\Circuit.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{31B716CC-DBC7-336B-BBFA-52CFAFF78A41}|CircuitSimulator.vcxproj|C:\\Users\\bentu\\OneDrive\\Bureaublad\\School_documenten\\Jaar_3\\Blok_12\\DEPA\\Eindopdracht\\Eindopdracht_DEPA\\src\\FileReader.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3BABF855-5D18-3963-BDE3-8E98BE45F3F3}|CircuitSimulator.vcxproj|C:\\Users\\bentu\\OneDrive\\Bureaublad\\School_documenten\\Jaar_3\\Blok_12\\DEPA\\Eindopdracht\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{31B716CC-DBC7-336B-BBFA-52CFAFF78A41}|CircuitSimulator.vcxproj|C:\\Users\\bentu\\OneDrive\\Bureaublad\\School_documenten\\Jaar_3\\Blok_12\\DEPA\\Eindopdracht\\Eindopdracht_DEPA\\src\\Circuit.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{572CDD71-85B9-3AC7-BF49-372AA4B46067}|ALL_BUILD.vcxproj|C:\\Users\\bentu\\OneDrive\\Bureaublad\\School_documenten\\Jaar_3\\Blok_12\\DEPA\\Eindopdracht\\CMakeLists.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{31B716CC-DBC7-336B-BBFA-52CFAFF78A41}|CircuitSimulator.vcxproj|C:\\Users\\bentu\\OneDrive\\Bureaublad\\School_documenten\\Jaar_3\\Blok_12\\DEPA\\Eindopdracht\\Eindopdracht_DEPA\\src\\ComponentFactory.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31B716CC-DBC7-336B-BBFA-52CFAFF78A41}|CircuitSimulator.vcxproj|C:\\Users\\bentu\\OneDrive\\Bureaublad\\School_documenten\\Jaar_3\\Blok_12\\DEPA\\Eindopdracht\\Eindopdracht_DEPA\\src\\Simulator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31B716CC-DBC7-336B-BBFA-52CFAFF78A41}|CircuitSimulator.vcxproj|C:\\Users\\bentu\\OneDrive\\Bureaublad\\School_documenten\\Jaar_3\\Blok_12\\DEPA\\Eindopdracht\\Eindopdracht_DEPA\\src\\XorGate.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,58 +28,84 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Simulator.cpp",
-              "DocumentMoniker": "C:\\Users\\bentu\\OneDrive\\Bureaublad\\School_documenten\\Jaar_3\\Blok_12\\DEPA\\Eindopdracht\\src\\Simulator.cpp",
-              "RelativeDocumentMoniker": "..\\src\\Simulator.cpp",
-              "ToolTip": "C:\\Users\\bentu\\OneDrive\\Bureaublad\\School_documenten\\Jaar_3\\Blok_12\\DEPA\\Eindopdracht\\src\\Simulator.cpp",
-              "RelativeToolTip": "..\\src\\Simulator.cpp",
-              "ViewState": "AgIAACAAAAAAAAAAAAAMwDAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-06-20T13:29:39.876Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Circuit.cpp",
-              "DocumentMoniker": "C:\\Users\\bentu\\OneDrive\\Bureaublad\\School_documenten\\Jaar_3\\Blok_12\\DEPA\\Eindopdracht\\src\\Circuit.cpp",
-              "RelativeDocumentMoniker": "..\\src\\Circuit.cpp",
-              "ToolTip": "C:\\Users\\bentu\\OneDrive\\Bureaublad\\School_documenten\\Jaar_3\\Blok_12\\DEPA\\Eindopdracht\\src\\Circuit.cpp",
-              "RelativeToolTip": "..\\src\\Circuit.cpp",
-              "ViewState": "AgIAABQAAAAAAAAAAAAAwCEAAAApAAAAAAAAAA==",
+              "Title": "FileReader.cpp",
+              "DocumentMoniker": "C:\\Users\\bentu\\OneDrive\\Bureaublad\\School_documenten\\Jaar_3\\Blok_12\\DEPA\\Eindopdracht\\Eindopdracht_DEPA\\src\\FileReader.cpp",
+              "RelativeDocumentMoniker": "..\\src\\FileReader.cpp",
+              "ToolTip": "C:\\Users\\bentu\\OneDrive\\Bureaublad\\School_documenten\\Jaar_3\\Blok_12\\DEPA\\Eindopdracht\\Eindopdracht_DEPA\\src\\FileReader.cpp",
+              "RelativeToolTip": "..\\src\\FileReader.cpp",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAwDoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-06-20T12:50:46.338Z",
+              "WhenOpened": "2025-06-22T11:53:29.98Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\bentu\\OneDrive\\Bureaublad\\School_documenten\\Jaar_3\\Blok_12\\DEPA\\Eindopdracht\\main.cpp",
-              "RelativeDocumentMoniker": "..\\main.cpp",
-              "ToolTip": "C:\\Users\\bentu\\OneDrive\\Bureaublad\\School_documenten\\Jaar_3\\Blok_12\\DEPA\\Eindopdracht\\main.cpp",
-              "RelativeToolTip": "..\\main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAPAAAAAAAAAA==",
+              "Title": "Circuit.cpp",
+              "DocumentMoniker": "C:\\Users\\bentu\\OneDrive\\Bureaublad\\School_documenten\\Jaar_3\\Blok_12\\DEPA\\Eindopdracht\\Eindopdracht_DEPA\\src\\Circuit.cpp",
+              "RelativeDocumentMoniker": "..\\src\\Circuit.cpp",
+              "ToolTip": "C:\\Users\\bentu\\OneDrive\\Bureaublad\\School_documenten\\Jaar_3\\Blok_12\\DEPA\\Eindopdracht\\Eindopdracht_DEPA\\src\\Circuit.cpp",
+              "RelativeToolTip": "..\\src\\Circuit.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-06-20T12:35:56.951Z",
+              "WhenOpened": "2025-06-22T10:25:17.445Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "CMakeLists.txt",
-              "DocumentMoniker": "C:\\Users\\bentu\\OneDrive\\Bureaublad\\School_documenten\\Jaar_3\\Blok_12\\DEPA\\Eindopdracht\\CMakeLists.txt",
-              "RelativeDocumentMoniker": "..\\CMakeLists.txt",
-              "ToolTip": "C:\\Users\\bentu\\OneDrive\\Bureaublad\\School_documenten\\Jaar_3\\Blok_12\\DEPA\\Eindopdracht\\CMakeLists.txt",
-              "RelativeToolTip": "..\\CMakeLists.txt",
+              "Title": "ComponentFactory.cpp",
+              "DocumentMoniker": "C:\\Users\\bentu\\OneDrive\\Bureaublad\\School_documenten\\Jaar_3\\Blok_12\\DEPA\\Eindopdracht\\Eindopdracht_DEPA\\src\\ComponentFactory.cpp",
+              "RelativeDocumentMoniker": "..\\src\\ComponentFactory.cpp",
+              "ToolTip": "C:\\Users\\bentu\\OneDrive\\Bureaublad\\School_documenten\\Jaar_3\\Blok_12\\DEPA\\Eindopdracht\\Eindopdracht_DEPA\\src\\ComponentFactory.cpp",
+              "RelativeToolTip": "..\\src\\ComponentFactory.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-22T10:22:50.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Simulator.cpp",
+              "DocumentMoniker": "C:\\Users\\bentu\\OneDrive\\Bureaublad\\School_documenten\\Jaar_3\\Blok_12\\DEPA\\Eindopdracht\\Eindopdracht_DEPA\\src\\Simulator.cpp",
+              "RelativeDocumentMoniker": "..\\src\\Simulator.cpp",
+              "ToolTip": "C:\\Users\\bentu\\OneDrive\\Bureaublad\\School_documenten\\Jaar_3\\Blok_12\\DEPA\\Eindopdracht\\Eindopdracht_DEPA\\src\\Simulator.cpp",
+              "RelativeToolTip": "..\\src\\Simulator.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-22T10:16:40.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "XorGate.cpp",
+              "DocumentMoniker": "C:\\Users\\bentu\\OneDrive\\Bureaublad\\School_documenten\\Jaar_3\\Blok_12\\DEPA\\Eindopdracht\\Eindopdracht_DEPA\\src\\XorGate.cpp",
+              "RelativeDocumentMoniker": "..\\src\\XorGate.cpp",
+              "ToolTip": "C:\\Users\\bentu\\OneDrive\\Bureaublad\\School_documenten\\Jaar_3\\Blok_12\\DEPA\\Eindopdracht\\Eindopdracht_DEPA\\src\\XorGate.cpp",
+              "RelativeToolTip": "..\\src\\XorGate.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-06-20T12:35:25.54Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-22T10:16:39.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\bentu\\OneDrive\\Bureaublad\\School_documenten\\Jaar_3\\Blok_12\\DEPA\\Eindopdracht\\Eindopdracht_DEPA\\main.cpp",
+              "RelativeDocumentMoniker": "..\\main.cpp",
+              "ToolTip": "C:\\Users\\bentu\\OneDrive\\Bureaublad\\School_documenten\\Jaar_3\\Blok_12\\DEPA\\Eindopdracht\\Eindopdracht_DEPA\\main.cpp",
+              "RelativeToolTip": "..\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-22T10:10:16.516Z",
               "EditorCaption": ""
             }
           ]

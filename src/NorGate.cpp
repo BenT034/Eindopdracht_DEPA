@@ -1,8 +1,12 @@
 #include "NorGate.h"
 #include <stdexcept>
 
+// Static member initialization
+NorGate NorGate::prototype("NOR");
+
 NorGate::NorGate(const std::string& gateId)
-    : GateNode(gateId, 10.0) {}
+    : GateNode(gateId, 10.0) {
+}
 
 bool NorGate::eval() {
     if (inputs.empty()) {
@@ -14,7 +18,10 @@ bool NorGate::eval() {
             or_result = true;
             break;
         }
-    }
-    _currentOutputValue = !or_result;
+    }    _currentOutputValue = !or_result;
     return _currentOutputValue;
+}
+
+Component* NorGate::clone() const {
+    return new NorGate(*this);
 }

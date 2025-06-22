@@ -1,13 +1,24 @@
-#ifndef COMPONENT_FACTORY_H
-#define COMPONENT_FACTORY_H
+#ifndef COMPONENTFACTORY_H
+#define COMPONENTFACTORY_H
 
-#include "Component.h"
-#include <memory>
+#include <map>
 #include <string>
+
+// Forward declaration
+class Component;
 
 class ComponentFactory {
 public:
-    static std::unique_ptr<Component> create(const std::string& id, const std::string& type);
+    void assign(const std::string& id, Component* p);
+    Component* create(const std::string& id);
+    static ComponentFactory& getInstance();
+
+    ComponentFactory(const ComponentFactory&) = delete;
+    void operator=(const ComponentFactory&) = delete;
+
+private:
+    ComponentFactory() = default;
+    std::map<std::string, Component*> prototypes;
 };
 
-#endif // COMPONENT_FACTORY_H
+#endif // COMPONENTFACTORY_H

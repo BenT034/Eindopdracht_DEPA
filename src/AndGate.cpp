@@ -1,8 +1,13 @@
 #include "AndGate.h"
+#include "Component.h"
 #include <stdexcept>
 
+// Static member initialization
+AndGate AndGate::prototype("AND");
+
 AndGate::AndGate(const std::string& gateId)
-    : GateNode(gateId, 10.0) {}
+    : GateNode(gateId, 10.0) {
+}
 
 bool AndGate::eval() {
     if (inputs.empty()) {
@@ -13,7 +18,10 @@ bool AndGate::eval() {
         if (!input->getOutputValue()) {
             _currentOutputValue = false;
             break;
-        }
-    }
+        }    }
     return _currentOutputValue;
+}
+
+Component* AndGate::clone() const {
+    return new AndGate(*this);
 }
